@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+tasks.db
+tasks.db-*
+*.wav
+*.mp3
+*.m4a
